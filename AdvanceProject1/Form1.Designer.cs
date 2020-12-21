@@ -31,6 +31,7 @@ namespace AdvanceProject1
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panelLeft = new System.Windows.Forms.Panel();
+            this.panelSide2 = new System.Windows.Forms.Panel();
             this.panelInform = new System.Windows.Forms.Panel();
             this.ıconButtonWebPage = new FontAwesome.Sharp.IconButton();
             this.ıconButtonTwitter = new FontAwesome.Sharp.IconButton();
@@ -49,13 +50,14 @@ namespace AdvanceProject1
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelMain = new System.Windows.Forms.Panel();
-            this.panelSide2 = new System.Windows.Forms.Panel();
+            this.iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
             this.panelLeft.SuspendLayout();
             this.panelInform.SuspendLayout();
             this.panelBook.SuspendLayout();
             this.panelTimer.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panelLeft
@@ -76,6 +78,15 @@ namespace AdvanceProject1
             this.panelLeft.Name = "panelLeft";
             this.panelLeft.Size = new System.Drawing.Size(237, 725);
             this.panelLeft.TabIndex = 0;
+            // 
+            // panelSide2
+            // 
+            this.panelSide2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(121)))), ((int)(((byte)(119)))), ((int)(((byte)(108)))));
+            this.panelSide2.Location = new System.Drawing.Point(3, 433);
+            this.panelSide2.Name = "panelSide2";
+            this.panelSide2.Size = new System.Drawing.Size(10, 46);
+            this.panelSide2.TabIndex = 1;
+            this.panelSide2.Visible = false;
             // 
             // panelInform
             // 
@@ -108,6 +119,7 @@ namespace AdvanceProject1
             this.ıconButtonWebPage.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButtonWebPage.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.ıconButtonWebPage.UseVisualStyleBackColor = false;
+            this.ıconButtonWebPage.Click += new System.EventHandler(this.ıconButtonWebPage_Click);
             // 
             // ıconButtonTwitter
             // 
@@ -129,6 +141,7 @@ namespace AdvanceProject1
             this.ıconButtonTwitter.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButtonTwitter.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.ıconButtonTwitter.UseVisualStyleBackColor = false;
+            this.ıconButtonTwitter.Click += new System.EventHandler(this.ıconButtonTwitter_Click);
             // 
             // ıconButtonInsta
             // 
@@ -150,6 +163,7 @@ namespace AdvanceProject1
             this.ıconButtonInsta.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButtonInsta.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.ıconButtonInsta.UseVisualStyleBackColor = false;
+            this.ıconButtonInsta.Click += new System.EventHandler(this.ıconButtonInsta_Click);
             // 
             // ıconButtonInform
             // 
@@ -211,6 +225,7 @@ namespace AdvanceProject1
             this.ıconButton4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButton4.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.ıconButton4.UseVisualStyleBackColor = false;
+            this.ıconButton4.Click += new System.EventHandler(this.ıconButton4_Click);
             // 
             // ıconButton3
             // 
@@ -232,6 +247,7 @@ namespace AdvanceProject1
             this.ıconButton3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButton3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.ıconButton3.UseVisualStyleBackColor = false;
+            this.ıconButton3.Click += new System.EventHandler(this.ıconButton3_Click);
             // 
             // ıconButtonBook
             // 
@@ -330,10 +346,14 @@ namespace AdvanceProject1
             this.panelMovement.Name = "panelMovement";
             this.panelMovement.Size = new System.Drawing.Size(766, 18);
             this.panelMovement.TabIndex = 1;
+            this.panelMovement.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panelMovement_MouseDown);
+            this.panelMovement.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panelMovement_MouseMove);
+            this.panelMovement.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panelMovement_MouseUp);
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
+            this.panel1.Controls.Add(this.iconPictureBox1);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(237, 18);
@@ -359,14 +379,21 @@ namespace AdvanceProject1
             this.panelMain.Size = new System.Drawing.Size(766, 573);
             this.panelMain.TabIndex = 3;
             // 
-            // panelSide2
+            // iconPictureBox1
             // 
-            this.panelSide2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(121)))), ((int)(((byte)(119)))), ((int)(((byte)(108)))));
-            this.panelSide2.Location = new System.Drawing.Point(3, 439);
-            this.panelSide2.Name = "panelSide2";
-            this.panelSide2.Size = new System.Drawing.Size(10, 46);
-            this.panelSide2.TabIndex = 1;
-            this.panelSide2.Visible = false;
+            this.iconPictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.iconPictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
+            this.iconPictureBox1.ForeColor = System.Drawing.Color.DarkRed;
+            this.iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.TimesCircle;
+            this.iconPictureBox1.IconColor = System.Drawing.Color.DarkRed;
+            this.iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconPictureBox1.IconSize = 44;
+            this.iconPictureBox1.Location = new System.Drawing.Point(705, 18);
+            this.iconPictureBox1.Name = "iconPictureBox1";
+            this.iconPictureBox1.Size = new System.Drawing.Size(49, 44);
+            this.iconPictureBox1.TabIndex = 2;
+            this.iconPictureBox1.TabStop = false;
+            this.iconPictureBox1.Click += new System.EventHandler(this.iconPictureBox1_Click);
             // 
             // Form1
             // 
@@ -377,6 +404,7 @@ namespace AdvanceProject1
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panelMovement);
             this.Controls.Add(this.panelLeft);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelLeft.ResumeLayout(false);
@@ -386,6 +414,7 @@ namespace AdvanceProject1
             this.panelTimer.PerformLayout();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -412,6 +441,7 @@ namespace AdvanceProject1
         private FontAwesome.Sharp.IconButton ıconButtonInsta;
         private FontAwesome.Sharp.IconButton ıconButtonInform;
         private System.Windows.Forms.Panel panelSide2;
+        private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
     }
 }
 
