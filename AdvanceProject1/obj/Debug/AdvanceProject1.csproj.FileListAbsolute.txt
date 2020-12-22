@@ -10,3 +10,5 @@ D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.exe
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingChartForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\bin\Debug\Guna.UI2.dll

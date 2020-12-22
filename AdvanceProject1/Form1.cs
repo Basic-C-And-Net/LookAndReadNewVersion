@@ -19,10 +19,13 @@ namespace AdvanceProject1
         public Form1()
         {
             InitializeComponent();
+            this.SetStyle(ControlStyles.ResizeRedraw, true);
             customizeDesign();
         }
 
-       public void customizeDesign()
+        
+
+        public void customizeDesign()
         {
             panelBook.Visible = false;
             panelInform.Visible = false;
