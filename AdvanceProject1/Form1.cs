@@ -19,11 +19,23 @@ namespace AdvanceProject1
         public Form1()
         {
             InitializeComponent();
-            this.SetStyle(ControlStyles.ResizeRedraw, true);
             customizeDesign();
         }
 
-        
+        private Form activeForm = null;
+        private void openChildForm(Form childForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            activeForm = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(childForm);
+            panelMain.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
+        }
 
         public void customizeDesign()
         {
@@ -58,6 +70,7 @@ namespace AdvanceProject1
             panelSide.Visible = true;
             panelSide.Top = ıconButtonHome.Top;
             panelSide2.Visible = false;
+            
         }
 
         private void ıconButton1_Click_1(object sender, EventArgs e)
@@ -80,6 +93,7 @@ namespace AdvanceProject1
         {
             panelSide.Visible = false;
             panelSide2.Visible = true;
+            panelSide2.Top = ıconButtonInform.Top;
             showSubMenu(panelInform);
         }
 
@@ -141,6 +155,26 @@ namespace AdvanceProject1
         private void ıconButtonWebPage_Click(object sender, EventArgs e)
         {
             hideSubMenu();
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelMain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void guna2GradientTileButton1_Click(object sender, EventArgs e)
+        {
+            openChildForm(new LogInForm());
+        }
+
+        private void guna2GradientTileButton2_Click(object sender, EventArgs e)
+        {
+            openChildForm(new LogInForm());
         }
     }
 }

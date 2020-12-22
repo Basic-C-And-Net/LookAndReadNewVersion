@@ -29,7 +29,6 @@ namespace AdvanceProject1
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panelLeft = new System.Windows.Forms.Panel();
             this.panelSide2 = new System.Windows.Forms.Panel();
@@ -46,19 +45,21 @@ namespace AdvanceProject1
             this.ıconButtonShopping = new FontAwesome.Sharp.IconButton();
             this.ıconButtonHome = new FontAwesome.Sharp.IconButton();
             this.panelTimer = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
+            this.guna2GradientTileButton2 = new Guna.UI2.WinForms.Guna2GradientTileButton();
+            this.guna2GradientTileButton1 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.panelMovement = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelMain = new System.Windows.Forms.Panel();
-            this.guna2ResizeForm1 = new Guna.UI2.WinForms.Guna2ResizeForm(this.components);
-            this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.panelLeft.SuspendLayout();
             this.panelInform.SuspendLayout();
             this.panelBook.SuspendLayout();
             this.panelTimer.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panelMain.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panelLeft
@@ -76,18 +77,18 @@ namespace AdvanceProject1
             this.panelLeft.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelLeft.Font = new System.Drawing.Font("Noto Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.panelLeft.Location = new System.Drawing.Point(0, 0);
-            this.panelLeft.Margin = new System.Windows.Forms.Padding(2);
+            this.panelLeft.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelLeft.Name = "panelLeft";
-            this.panelLeft.Size = new System.Drawing.Size(178, 589);
+            this.panelLeft.Size = new System.Drawing.Size(237, 725);
             this.panelLeft.TabIndex = 0;
             // 
             // panelSide2
             // 
             this.panelSide2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(121)))), ((int)(((byte)(119)))), ((int)(((byte)(108)))));
-            this.panelSide2.Location = new System.Drawing.Point(2, 352);
-            this.panelSide2.Margin = new System.Windows.Forms.Padding(2);
+            this.panelSide2.Location = new System.Drawing.Point(3, 433);
+            this.panelSide2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelSide2.Name = "panelSide2";
-            this.panelSide2.Size = new System.Drawing.Size(8, 37);
+            this.panelSide2.Size = new System.Drawing.Size(11, 46);
             this.panelSide2.TabIndex = 1;
             this.panelSide2.Visible = false;
             // 
@@ -97,10 +98,10 @@ namespace AdvanceProject1
             this.panelInform.Controls.Add(this.ıconButtonTwitter);
             this.panelInform.Controls.Add(this.ıconButtonInsta);
             this.panelInform.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelInform.Location = new System.Drawing.Point(0, 393);
-            this.panelInform.Margin = new System.Windows.Forms.Padding(2);
+            this.panelInform.Location = new System.Drawing.Point(0, 483);
+            this.panelInform.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelInform.Name = "panelInform";
-            this.panelInform.Size = new System.Drawing.Size(178, 141);
+            this.panelInform.Size = new System.Drawing.Size(237, 174);
             this.panelInform.TabIndex = 6;
             // 
             // ıconButtonWebPage
@@ -114,11 +115,11 @@ namespace AdvanceProject1
             this.ıconButtonWebPage.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButtonWebPage.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonWebPage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonWebPage.Location = new System.Drawing.Point(0, 90);
-            this.ıconButtonWebPage.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonWebPage.Location = new System.Drawing.Point(0, 110);
+            this.ıconButtonWebPage.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonWebPage.Name = "ıconButtonWebPage";
-            this.ıconButtonWebPage.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
-            this.ıconButtonWebPage.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonWebPage.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            this.ıconButtonWebPage.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonWebPage.TabIndex = 9;
             this.ıconButtonWebPage.Text = "WEBPAGE";
             this.ıconButtonWebPage.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -137,11 +138,11 @@ namespace AdvanceProject1
             this.ıconButtonTwitter.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButtonTwitter.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonTwitter.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonTwitter.Location = new System.Drawing.Point(0, 45);
-            this.ıconButtonTwitter.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonTwitter.Location = new System.Drawing.Point(0, 55);
+            this.ıconButtonTwitter.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonTwitter.Name = "ıconButtonTwitter";
-            this.ıconButtonTwitter.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
-            this.ıconButtonTwitter.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonTwitter.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            this.ıconButtonTwitter.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonTwitter.TabIndex = 8;
             this.ıconButtonTwitter.Text = "TWITTER";
             this.ıconButtonTwitter.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -161,10 +162,10 @@ namespace AdvanceProject1
             this.ıconButtonInsta.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonInsta.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButtonInsta.Location = new System.Drawing.Point(0, 0);
-            this.ıconButtonInsta.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonInsta.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonInsta.Name = "ıconButtonInsta";
-            this.ıconButtonInsta.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
-            this.ıconButtonInsta.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonInsta.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            this.ıconButtonInsta.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonInsta.TabIndex = 7;
             this.ıconButtonInsta.Text = "INSTAGRAM";
             this.ıconButtonInsta.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -183,11 +184,11 @@ namespace AdvanceProject1
             this.ıconButtonInform.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButtonInform.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonInform.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonInform.Location = new System.Drawing.Point(0, 348);
-            this.ıconButtonInform.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonInform.Location = new System.Drawing.Point(0, 428);
+            this.ıconButtonInform.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonInform.Name = "ıconButtonInform";
-            this.ıconButtonInform.Padding = new System.Windows.Forms.Padding(4, 0, 0, 0);
-            this.ıconButtonInform.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonInform.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonInform.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonInform.TabIndex = 5;
             this.ıconButtonInform.Text = "INFORMATION";
             this.ıconButtonInform.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -198,10 +199,10 @@ namespace AdvanceProject1
             // panelSide
             // 
             this.panelSide.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(121)))), ((int)(((byte)(119)))), ((int)(((byte)(108)))));
-            this.panelSide.Location = new System.Drawing.Point(2, 126);
-            this.panelSide.Margin = new System.Windows.Forms.Padding(2);
+            this.panelSide.Location = new System.Drawing.Point(3, 155);
+            this.panelSide.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelSide.Name = "panelSide";
-            this.panelSide.Size = new System.Drawing.Size(8, 37);
+            this.panelSide.Size = new System.Drawing.Size(11, 46);
             this.panelSide.TabIndex = 0;
             // 
             // panelBook
@@ -209,10 +210,10 @@ namespace AdvanceProject1
             this.panelBook.Controls.Add(this.ıconButton4);
             this.panelBook.Controls.Add(this.ıconButton3);
             this.panelBook.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelBook.Location = new System.Drawing.Point(0, 259);
-            this.panelBook.Margin = new System.Windows.Forms.Padding(2);
+            this.panelBook.Location = new System.Drawing.Point(0, 318);
+            this.panelBook.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelBook.Name = "panelBook";
-            this.panelBook.Size = new System.Drawing.Size(178, 89);
+            this.panelBook.Size = new System.Drawing.Size(237, 110);
             this.panelBook.TabIndex = 4;
             // 
             // ıconButton4
@@ -226,11 +227,11 @@ namespace AdvanceProject1
             this.ıconButton4.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButton4.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButton4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButton4.Location = new System.Drawing.Point(0, 45);
-            this.ıconButton4.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButton4.Location = new System.Drawing.Point(0, 55);
+            this.ıconButton4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButton4.Name = "ıconButton4";
-            this.ıconButton4.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
-            this.ıconButton4.Size = new System.Drawing.Size(178, 45);
+            this.ıconButton4.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            this.ıconButton4.Size = new System.Drawing.Size(237, 55);
             this.ıconButton4.TabIndex = 7;
             this.ıconButton4.Text = "BOOK";
             this.ıconButton4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -250,10 +251,10 @@ namespace AdvanceProject1
             this.ıconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButton3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButton3.Location = new System.Drawing.Point(0, 0);
-            this.ıconButton3.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButton3.Name = "ıconButton3";
-            this.ıconButton3.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
-            this.ıconButton3.Size = new System.Drawing.Size(178, 45);
+            this.ıconButton3.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            this.ıconButton3.Size = new System.Drawing.Size(237, 55);
             this.ıconButton3.TabIndex = 6;
             this.ıconButton3.Text = "MAGAZINE";
             this.ıconButton3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -272,11 +273,11 @@ namespace AdvanceProject1
             this.ıconButtonBook.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButtonBook.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonBook.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonBook.Location = new System.Drawing.Point(0, 214);
-            this.ıconButtonBook.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonBook.Location = new System.Drawing.Point(0, 263);
+            this.ıconButtonBook.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonBook.Name = "ıconButtonBook";
-            this.ıconButtonBook.Padding = new System.Windows.Forms.Padding(4, 0, 0, 0);
-            this.ıconButtonBook.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonBook.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonBook.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonBook.TabIndex = 3;
             this.ıconButtonBook.Text = "BOOK";
             this.ıconButtonBook.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -295,11 +296,11 @@ namespace AdvanceProject1
             this.ıconButtonShopping.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButtonShopping.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonShopping.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonShopping.Location = new System.Drawing.Point(0, 169);
-            this.ıconButtonShopping.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonShopping.Location = new System.Drawing.Point(0, 208);
+            this.ıconButtonShopping.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonShopping.Name = "ıconButtonShopping";
-            this.ıconButtonShopping.Padding = new System.Windows.Forms.Padding(4, 0, 0, 0);
-            this.ıconButtonShopping.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonShopping.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonShopping.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonShopping.TabIndex = 2;
             this.ıconButtonShopping.Text = "SHOPPING CHART";
             this.ıconButtonShopping.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -318,11 +319,11 @@ namespace AdvanceProject1
             this.ıconButtonHome.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
             this.ıconButtonHome.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonHome.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonHome.Location = new System.Drawing.Point(0, 124);
-            this.ıconButtonHome.Margin = new System.Windows.Forms.Padding(2);
+            this.ıconButtonHome.Location = new System.Drawing.Point(0, 153);
+            this.ıconButtonHome.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonHome.Name = "ıconButtonHome";
-            this.ıconButtonHome.Padding = new System.Windows.Forms.Padding(4, 0, 0, 0);
-            this.ıconButtonHome.Size = new System.Drawing.Size(178, 45);
+            this.ıconButtonHome.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonHome.Size = new System.Drawing.Size(237, 55);
             this.ıconButtonHome.TabIndex = 1;
             this.ıconButtonHome.Text = "HOME";
             this.ıconButtonHome.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -332,37 +333,63 @@ namespace AdvanceProject1
             // 
             // panelTimer
             // 
-            this.panelTimer.Controls.Add(this.label1);
+            this.panelTimer.Controls.Add(this.guna2GradientTileButton2);
+            this.panelTimer.Controls.Add(this.guna2GradientTileButton1);
             this.panelTimer.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTimer.Location = new System.Drawing.Point(0, 0);
-            this.panelTimer.Margin = new System.Windows.Forms.Padding(2);
+            this.panelTimer.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelTimer.Name = "panelTimer";
-            this.panelTimer.Size = new System.Drawing.Size(178, 124);
+            this.panelTimer.Size = new System.Drawing.Size(237, 153);
             this.panelTimer.TabIndex = 0;
             // 
-            // label1
+            // guna2GradientTileButton2
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
-            this.label1.Font = new System.Drawing.Font("Noto Serif", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(34, 37);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(110, 47);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "00:00";
+            this.guna2GradientTileButton2.Animated = true;
+            this.guna2GradientTileButton2.AutoRoundedCorners = true;
+            this.guna2GradientTileButton2.BorderRadius = 21;
+            this.guna2GradientTileButton2.CheckedState.Parent = this.guna2GradientTileButton2;
+            this.guna2GradientTileButton2.CustomImages.Parent = this.guna2GradientTileButton2;
+            this.guna2GradientTileButton2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
+            this.guna2GradientTileButton2.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(138)))), ((int)(((byte)(133)))));
+            this.guna2GradientTileButton2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2GradientTileButton2.ForeColor = System.Drawing.Color.White;
+            this.guna2GradientTileButton2.HoverState.Parent = this.guna2GradientTileButton2;
+            this.guna2GradientTileButton2.Location = new System.Drawing.Point(116, 55);
+            this.guna2GradientTileButton2.Name = "guna2GradientTileButton2";
+            this.guna2GradientTileButton2.ShadowDecoration.Parent = this.guna2GradientTileButton2;
+            this.guna2GradientTileButton2.Size = new System.Drawing.Size(107, 45);
+            this.guna2GradientTileButton2.TabIndex = 1;
+            this.guna2GradientTileButton2.Text = "Sign In";
+            this.guna2GradientTileButton2.Click += new System.EventHandler(this.guna2GradientTileButton2_Click);
+            // 
+            // guna2GradientTileButton1
+            // 
+            this.guna2GradientTileButton1.Animated = true;
+            this.guna2GradientTileButton1.AutoRoundedCorners = true;
+            this.guna2GradientTileButton1.BorderRadius = 21;
+            this.guna2GradientTileButton1.CheckedState.Parent = this.guna2GradientTileButton1;
+            this.guna2GradientTileButton1.CustomImages.Parent = this.guna2GradientTileButton1;
+            this.guna2GradientTileButton1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(206)))), ((int)(((byte)(16)))), ((int)(((byte)(2)))));
+            this.guna2GradientTileButton1.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(165)))), ((int)(((byte)(138)))), ((int)(((byte)(133)))));
+            this.guna2GradientTileButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.guna2GradientTileButton1.ForeColor = System.Drawing.Color.White;
+            this.guna2GradientTileButton1.HoverState.Parent = this.guna2GradientTileButton1;
+            this.guna2GradientTileButton1.Location = new System.Drawing.Point(3, 55);
+            this.guna2GradientTileButton1.Name = "guna2GradientTileButton1";
+            this.guna2GradientTileButton1.ShadowDecoration.Parent = this.guna2GradientTileButton1;
+            this.guna2GradientTileButton1.Size = new System.Drawing.Size(107, 45);
+            this.guna2GradientTileButton1.TabIndex = 0;
+            this.guna2GradientTileButton1.Text = "Log In";
+            this.guna2GradientTileButton1.Click += new System.EventHandler(this.guna2GradientTileButton1_Click);
             // 
             // panelMovement
             // 
             this.panelMovement.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(58)))), ((int)(((byte)(53)))));
             this.panelMovement.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelMovement.Location = new System.Drawing.Point(178, 0);
-            this.panelMovement.Margin = new System.Windows.Forms.Padding(2);
+            this.panelMovement.Location = new System.Drawing.Point(237, 0);
+            this.panelMovement.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelMovement.Name = "panelMovement";
-            this.panelMovement.Size = new System.Drawing.Size(574, 15);
+            this.panelMovement.Size = new System.Drawing.Size(766, 18);
             this.panelMovement.TabIndex = 1;
             this.panelMovement.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panelMovement_MouseDown);
             this.panelMovement.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panelMovement_MouseMove);
@@ -373,61 +400,68 @@ namespace AdvanceProject1
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(225)))), ((int)(((byte)(225)))));
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(178, 15);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(237, 18);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(574, 109);
+            this.panel1.Size = new System.Drawing.Size(766, 134);
             this.panel1.TabIndex = 2;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(177, 109);
+            this.pictureBox1.Size = new System.Drawing.Size(236, 134);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // panelMain
             // 
+            this.panelMain.BackColor = System.Drawing.Color.White;
+            this.panelMain.Controls.Add(this.guna2PictureBox1);
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelMain.Location = new System.Drawing.Point(178, 124);
-            this.panelMain.Margin = new System.Windows.Forms.Padding(2);
+            this.panelMain.Location = new System.Drawing.Point(237, 152);
+            this.panelMain.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(574, 465);
+            this.panelMain.Size = new System.Drawing.Size(766, 573);
             this.panelMain.TabIndex = 3;
+            this.panelMain.Paint += new System.Windows.Forms.PaintEventHandler(this.panelMain_Paint);
             // 
-            // guna2ResizeForm1
+            // guna2PictureBox1
             // 
-            this.guna2ResizeForm1.TargetForm = this;
-            // 
-            // guna2BorderlessForm1
-            // 
-            this.guna2BorderlessForm1.ContainerControl = this;
+            this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
+            this.guna2PictureBox1.Location = new System.Drawing.Point(-32, 323);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.ShadowDecoration.Parent = this.guna2PictureBox1;
+            this.guna2PictureBox1.Size = new System.Drawing.Size(1018, 250);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox1.TabIndex = 0;
+            this.guna2PictureBox1.TabStop = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(752, 589);
+            this.ClientSize = new System.Drawing.Size(1003, 725);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panelMovement);
             this.Controls.Add(this.panelLeft);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelLeft.ResumeLayout(false);
             this.panelInform.ResumeLayout(false);
             this.panelBook.ResumeLayout(false);
             this.panelTimer.ResumeLayout(false);
-            this.panelTimer.PerformLayout();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panelMain.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -441,7 +475,6 @@ namespace AdvanceProject1
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panelMain;
         private FontAwesome.Sharp.IconButton ıconButtonHome;
-        private System.Windows.Forms.Label label1;
         private FontAwesome.Sharp.IconButton ıconButtonShopping;
         private System.Windows.Forms.Panel panelSide;
         private System.Windows.Forms.Panel panelBook;
@@ -454,8 +487,9 @@ namespace AdvanceProject1
         private FontAwesome.Sharp.IconButton ıconButtonInsta;
         private FontAwesome.Sharp.IconButton ıconButtonInform;
         private System.Windows.Forms.Panel panelSide2;
-        private Guna.UI2.WinForms.Guna2ResizeForm guna2ResizeForm1;
-        private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
+        private Guna.UI2.WinForms.Guna2GradientTileButton guna2GradientTileButton2;
+        private Guna.UI2.WinForms.Guna2GradientTileButton guna2GradientTileButton1;
+        private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
     }
 }
 
