@@ -21,6 +21,10 @@ namespace AdvanceProject1
             InitializeComponent();
             customizeDesign();
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           
+        }
 
         private Form activeForm = null;
         private void openChildForm(Form childForm)
@@ -103,6 +107,7 @@ namespace AdvanceProject1
             offset.Y = e.Y;
             mouseDown = true;
         }
+     
 
         private void panelMovement_MouseMove(object sender, MouseEventArgs e)
         {
@@ -134,12 +139,14 @@ namespace AdvanceProject1
         private void ıconButton3_Click(object sender, EventArgs e)
         {
             hideSubMenu();
+            openChildForm(new Books());
 
         }
 
         private void ıconButton4_Click(object sender, EventArgs e)
         {
             hideSubMenu();
+            openChildForm(new Books());
         }
 
         private void ıconButtonInsta_Click(object sender, EventArgs e)
@@ -176,5 +183,37 @@ namespace AdvanceProject1
         {
             openChildForm(new LogInForm());
         }
+
+        private void guna2VScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void userControl15_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl14_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl12_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl11_Load(object sender, EventArgs e)
+        {
+
+        }
+
+       
     }
 }
