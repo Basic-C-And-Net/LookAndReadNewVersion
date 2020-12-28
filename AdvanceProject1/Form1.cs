@@ -83,6 +83,7 @@ namespace AdvanceProject1
             panelSide.Visible = true;
             panelSide.Top = ıconButtonShopping.Top;
             panelSide2.Visible = false;
+            openChildForm(new ShoppingChartForm());
             
             labelBolumAdi.Text = "SHOPPING CHART";
         }

@@ -163,12 +163,12 @@ namespace AdvanceProject1
             // 
             // labelBolumAdi
             // 
-            this.labelBolumAdi.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.labelBolumAdi.AutoSize = true;
+            this.labelBolumAdi.Dock = System.Windows.Forms.DockStyle.Right;
             this.labelBolumAdi.Font = new System.Drawing.Font("Century Gothic", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBolumAdi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.labelBolumAdi.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.labelBolumAdi.Location = new System.Drawing.Point(316, 41);
+            this.labelBolumAdi.Location = new System.Drawing.Point(683, 0);
             this.labelBolumAdi.Name = "labelBolumAdi";
             this.labelBolumAdi.Size = new System.Drawing.Size(165, 56);
             this.labelBolumAdi.TabIndex = 0;
@@ -535,7 +535,6 @@ namespace AdvanceProject1
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.MinimumSize = new System.Drawing.Size(1085, 755);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelMovement.ResumeLayout(false);

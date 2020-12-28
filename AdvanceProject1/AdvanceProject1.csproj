@@ -72,6 +72,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShoppingChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShoppingChart.Designer.cs">
+      <DependentUpon>ShoppingChart.cs</DependentUpon>
+    </Compile>
     <Compile Include="ShoppingChartForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -103,6 +109,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ShoppingChart.resx">
+      <DependentUpon>ShoppingChart.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ShoppingChartForm.resx">
       <DependentUpon>ShoppingChartForm.cs</DependentUpon>
     </EmbeddedResource>
