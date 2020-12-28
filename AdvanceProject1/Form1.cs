@@ -75,6 +75,7 @@ namespace AdvanceProject1
             panelSide.Top = ıconButtonHome.Top;
             panelSide2.Visible = false;
             
+
         }
 
         private void ıconButton1_Click_1(object sender, EventArgs e)
@@ -82,6 +83,8 @@ namespace AdvanceProject1
             panelSide.Visible = true;
             panelSide.Top = ıconButtonShopping.Top;
             panelSide2.Visible = false;
+            
+            labelBolumAdi.Text = "SHOPPING CHART";
         }
 
         private void ıconButton2_Click(object sender, EventArgs e)
@@ -140,6 +143,7 @@ namespace AdvanceProject1
         {
             hideSubMenu();
             openChildForm(new Books());
+            labelBolumAdi.Text = "MAGAZINE";
 
         }
 
@@ -147,6 +151,7 @@ namespace AdvanceProject1
         {
             hideSubMenu();
             openChildForm(new Books());
+            labelBolumAdi.Text = "BOOKS";
         }
 
         private void ıconButtonInsta_Click(object sender, EventArgs e)
@@ -214,6 +219,9 @@ namespace AdvanceProject1
 
         }
 
-       
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

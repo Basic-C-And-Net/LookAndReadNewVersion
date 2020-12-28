@@ -29,7 +29,6 @@ namespace AdvanceProject1
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.guna2GradientTileButton2 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.guna2GradientTileButton1 = new Guna.UI2.WinForms.Guna2GradientTileButton();
@@ -37,17 +36,13 @@ namespace AdvanceProject1
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox2 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.labelBolumAdi = new System.Windows.Forms.Label();
             this.panelMain = new System.Windows.Forms.Panel();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2ShadowForm1 = new Guna.UI2.WinForms.Guna2ShadowForm(this.components);
-            this.ıconButtonHome = new FontAwesome.Sharp.IconButton();
-            this.ıconButtonShopping = new FontAwesome.Sharp.IconButton();
-            this.ıconButtonBook = new FontAwesome.Sharp.IconButton();
             this.panelBook = new System.Windows.Forms.Panel();
             this.ıconButton4 = new FontAwesome.Sharp.IconButton();
             this.ıconButton3 = new FontAwesome.Sharp.IconButton();
             this.panelSide = new System.Windows.Forms.Panel();
-            this.ıconButtonInform = new FontAwesome.Sharp.IconButton();
             this.panelInform = new System.Windows.Forms.Panel();
             this.ıconButtonWebPage = new FontAwesome.Sharp.IconButton();
             this.ıconButtonTwitter = new FontAwesome.Sharp.IconButton();
@@ -56,10 +51,15 @@ namespace AdvanceProject1
             this.panelLeft = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.labelUserName = new System.Windows.Forms.Label();
+            this.ıconButtonInform = new FontAwesome.Sharp.IconButton();
+            this.ıconButtonBook = new FontAwesome.Sharp.IconButton();
+            this.ıconButtonShopping = new FontAwesome.Sharp.IconButton();
+            this.ıconButtonHome = new FontAwesome.Sharp.IconButton();
             this.panelTimer = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelMovement.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.panelMain.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.panelBook.SuspendLayout();
@@ -153,12 +153,27 @@ namespace AdvanceProject1
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(254)))), ((int)(((byte)(242)))));
+            this.panel1.Controls.Add(this.labelBolumAdi);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(237, 39);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(848, 112);
             this.panel1.TabIndex = 2;
+            // 
+            // labelBolumAdi
+            // 
+            this.labelBolumAdi.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.labelBolumAdi.AutoSize = true;
+            this.labelBolumAdi.Font = new System.Drawing.Font("Century Gothic", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelBolumAdi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.labelBolumAdi.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.labelBolumAdi.Location = new System.Drawing.Point(316, 41);
+            this.labelBolumAdi.Name = "labelBolumAdi";
+            this.labelBolumAdi.Size = new System.Drawing.Size(165, 56);
+            this.labelBolumAdi.TabIndex = 0;
+            this.labelBolumAdi.Text = "HOME";
+            this.labelBolumAdi.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // panelMain
             // 
@@ -168,7 +183,7 @@ namespace AdvanceProject1
             this.panelMain.Location = new System.Drawing.Point(237, 151);
             this.panelMain.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(848, 598);
+            this.panelMain.Size = new System.Drawing.Size(848, 604);
             this.panelMain.TabIndex = 3;
             this.panelMain.Paint += new System.Windows.Forms.PaintEventHandler(this.panelMain_Paint);
             // 
@@ -182,79 +197,6 @@ namespace AdvanceProject1
             this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.guna2PictureBox1.TabIndex = 0;
             this.guna2PictureBox1.TabStop = false;
-            // 
-            // guna2ShadowForm1
-            // 
-            this.guna2ShadowForm1.TargetForm = this;
-            // 
-            // ıconButtonHome
-            // 
-            this.ıconButtonHome.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ıconButtonHome.Dock = System.Windows.Forms.DockStyle.Top;
-            this.ıconButtonHome.FlatAppearance.BorderSize = 0;
-            this.ıconButtonHome.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ıconButtonHome.ForeColor = System.Drawing.Color.White;
-            this.ıconButtonHome.IconChar = FontAwesome.Sharp.IconChar.Home;
-            this.ıconButtonHome.IconColor = System.Drawing.Color.Red;
-            this.ıconButtonHome.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.ıconButtonHome.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonHome.Location = new System.Drawing.Point(0, 158);
-            this.ıconButtonHome.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ıconButtonHome.Name = "ıconButtonHome";
-            this.ıconButtonHome.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
-            this.ıconButtonHome.Size = new System.Drawing.Size(237, 55);
-            this.ıconButtonHome.TabIndex = 1;
-            this.ıconButtonHome.Text = "HOME";
-            this.ıconButtonHome.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonHome.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.ıconButtonHome.UseVisualStyleBackColor = false;
-            this.ıconButtonHome.Click += new System.EventHandler(this.ıconButton1_Click);
-            // 
-            // ıconButtonShopping
-            // 
-            this.ıconButtonShopping.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ıconButtonShopping.Dock = System.Windows.Forms.DockStyle.Top;
-            this.ıconButtonShopping.FlatAppearance.BorderSize = 0;
-            this.ıconButtonShopping.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ıconButtonShopping.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
-            this.ıconButtonShopping.IconChar = FontAwesome.Sharp.IconChar.ShoppingCart;
-            this.ıconButtonShopping.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
-            this.ıconButtonShopping.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.ıconButtonShopping.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonShopping.Location = new System.Drawing.Point(0, 213);
-            this.ıconButtonShopping.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ıconButtonShopping.Name = "ıconButtonShopping";
-            this.ıconButtonShopping.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
-            this.ıconButtonShopping.Size = new System.Drawing.Size(237, 55);
-            this.ıconButtonShopping.TabIndex = 2;
-            this.ıconButtonShopping.Text = "SHOPPING CHART";
-            this.ıconButtonShopping.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonShopping.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.ıconButtonShopping.UseVisualStyleBackColor = false;
-            this.ıconButtonShopping.Click += new System.EventHandler(this.ıconButton1_Click_1);
-            // 
-            // ıconButtonBook
-            // 
-            this.ıconButtonBook.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ıconButtonBook.Dock = System.Windows.Forms.DockStyle.Top;
-            this.ıconButtonBook.FlatAppearance.BorderSize = 0;
-            this.ıconButtonBook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ıconButtonBook.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
-            this.ıconButtonBook.IconChar = FontAwesome.Sharp.IconChar.Book;
-            this.ıconButtonBook.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
-            this.ıconButtonBook.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.ıconButtonBook.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonBook.Location = new System.Drawing.Point(0, 268);
-            this.ıconButtonBook.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ıconButtonBook.Name = "ıconButtonBook";
-            this.ıconButtonBook.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
-            this.ıconButtonBook.Size = new System.Drawing.Size(237, 55);
-            this.ıconButtonBook.TabIndex = 3;
-            this.ıconButtonBook.Text = "BOOK";
-            this.ıconButtonBook.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonBook.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.ıconButtonBook.UseVisualStyleBackColor = false;
-            this.ıconButtonBook.Click += new System.EventHandler(this.ıconButton2_Click);
             // 
             // panelBook
             // 
@@ -321,29 +263,6 @@ namespace AdvanceProject1
             this.panelSide.Name = "panelSide";
             this.panelSide.Size = new System.Drawing.Size(11, 46);
             this.panelSide.TabIndex = 0;
-            // 
-            // ıconButtonInform
-            // 
-            this.ıconButtonInform.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ıconButtonInform.Dock = System.Windows.Forms.DockStyle.Top;
-            this.ıconButtonInform.FlatAppearance.BorderSize = 0;
-            this.ıconButtonInform.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ıconButtonInform.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
-            this.ıconButtonInform.IconChar = FontAwesome.Sharp.IconChar.InfoCircle;
-            this.ıconButtonInform.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
-            this.ıconButtonInform.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.ıconButtonInform.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonInform.Location = new System.Drawing.Point(0, 433);
-            this.ıconButtonInform.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ıconButtonInform.Name = "ıconButtonInform";
-            this.ıconButtonInform.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
-            this.ıconButtonInform.Size = new System.Drawing.Size(237, 55);
-            this.ıconButtonInform.TabIndex = 5;
-            this.ıconButtonInform.Text = "INFORMATION";
-            this.ıconButtonInform.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonInform.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.ıconButtonInform.UseVisualStyleBackColor = false;
-            this.ıconButtonInform.Click += new System.EventHandler(this.ıconButtonInform_Click);
             // 
             // panelInform
             // 
@@ -454,7 +373,7 @@ namespace AdvanceProject1
             this.panelLeft.Location = new System.Drawing.Point(0, 0);
             this.panelLeft.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelLeft.Name = "panelLeft";
-            this.panelLeft.Size = new System.Drawing.Size(237, 749);
+            this.panelLeft.Size = new System.Drawing.Size(237, 755);
             this.panelLeft.TabIndex = 0;
             // 
             // panel3
@@ -463,7 +382,7 @@ namespace AdvanceProject1
             this.panel3.Controls.Add(this.guna2GradientTileButton2);
             this.panel3.Controls.Add(this.guna2GradientTileButton1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel3.Location = new System.Drawing.Point(0, 667);
+            this.panel3.Location = new System.Drawing.Point(0, 673);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(237, 82);
             this.panel3.TabIndex = 3;
@@ -477,6 +396,98 @@ namespace AdvanceProject1
             this.labelUserName.Size = new System.Drawing.Size(145, 23);
             this.labelUserName.TabIndex = 0;
             this.labelUserName.Text = "Hello User1234";
+            // 
+            // ıconButtonInform
+            // 
+            this.ıconButtonInform.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ıconButtonInform.Dock = System.Windows.Forms.DockStyle.Top;
+            this.ıconButtonInform.FlatAppearance.BorderSize = 0;
+            this.ıconButtonInform.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ıconButtonInform.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
+            this.ıconButtonInform.IconChar = FontAwesome.Sharp.IconChar.InfoCircle;
+            this.ıconButtonInform.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
+            this.ıconButtonInform.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.ıconButtonInform.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonInform.Location = new System.Drawing.Point(0, 433);
+            this.ıconButtonInform.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ıconButtonInform.Name = "ıconButtonInform";
+            this.ıconButtonInform.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonInform.Size = new System.Drawing.Size(237, 55);
+            this.ıconButtonInform.TabIndex = 5;
+            this.ıconButtonInform.Text = "INFORMATION";
+            this.ıconButtonInform.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonInform.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.ıconButtonInform.UseVisualStyleBackColor = false;
+            this.ıconButtonInform.Click += new System.EventHandler(this.ıconButtonInform_Click);
+            // 
+            // ıconButtonBook
+            // 
+            this.ıconButtonBook.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ıconButtonBook.Dock = System.Windows.Forms.DockStyle.Top;
+            this.ıconButtonBook.FlatAppearance.BorderSize = 0;
+            this.ıconButtonBook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ıconButtonBook.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
+            this.ıconButtonBook.IconChar = FontAwesome.Sharp.IconChar.Book;
+            this.ıconButtonBook.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
+            this.ıconButtonBook.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.ıconButtonBook.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonBook.Location = new System.Drawing.Point(0, 268);
+            this.ıconButtonBook.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ıconButtonBook.Name = "ıconButtonBook";
+            this.ıconButtonBook.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonBook.Size = new System.Drawing.Size(237, 55);
+            this.ıconButtonBook.TabIndex = 3;
+            this.ıconButtonBook.Text = "BOOK";
+            this.ıconButtonBook.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonBook.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.ıconButtonBook.UseVisualStyleBackColor = false;
+            this.ıconButtonBook.Click += new System.EventHandler(this.ıconButton2_Click);
+            // 
+            // ıconButtonShopping
+            // 
+            this.ıconButtonShopping.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ıconButtonShopping.Dock = System.Windows.Forms.DockStyle.Top;
+            this.ıconButtonShopping.FlatAppearance.BorderSize = 0;
+            this.ıconButtonShopping.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ıconButtonShopping.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(237)))), ((int)(((byte)(232)))));
+            this.ıconButtonShopping.IconChar = FontAwesome.Sharp.IconChar.ShoppingCart;
+            this.ıconButtonShopping.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
+            this.ıconButtonShopping.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.ıconButtonShopping.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonShopping.Location = new System.Drawing.Point(0, 213);
+            this.ıconButtonShopping.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ıconButtonShopping.Name = "ıconButtonShopping";
+            this.ıconButtonShopping.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonShopping.Size = new System.Drawing.Size(237, 55);
+            this.ıconButtonShopping.TabIndex = 2;
+            this.ıconButtonShopping.Text = "SHOPPING CHART";
+            this.ıconButtonShopping.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonShopping.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.ıconButtonShopping.UseVisualStyleBackColor = false;
+            this.ıconButtonShopping.Click += new System.EventHandler(this.ıconButton1_Click_1);
+            // 
+            // ıconButtonHome
+            // 
+            this.ıconButtonHome.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ıconButtonHome.Dock = System.Windows.Forms.DockStyle.Top;
+            this.ıconButtonHome.FlatAppearance.BorderSize = 0;
+            this.ıconButtonHome.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ıconButtonHome.ForeColor = System.Drawing.Color.White;
+            this.ıconButtonHome.IconChar = FontAwesome.Sharp.IconChar.Home;
+            this.ıconButtonHome.IconColor = System.Drawing.Color.Red;
+            this.ıconButtonHome.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.ıconButtonHome.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonHome.Location = new System.Drawing.Point(0, 158);
+            this.ıconButtonHome.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ıconButtonHome.Name = "ıconButtonHome";
+            this.ıconButtonHome.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
+            this.ıconButtonHome.Size = new System.Drawing.Size(237, 55);
+            this.ıconButtonHome.TabIndex = 1;
+            this.ıconButtonHome.Text = "HOME";
+            this.ıconButtonHome.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.ıconButtonHome.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.ıconButtonHome.UseVisualStyleBackColor = false;
+            this.ıconButtonHome.Click += new System.EventHandler(this.ıconButton1_Click);
             // 
             // panelTimer
             // 
@@ -510,12 +521,13 @@ namespace AdvanceProject1
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1085, 749);
+            this.ClientSize = new System.Drawing.Size(1085, 755);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panelMovement);
@@ -523,9 +535,12 @@ namespace AdvanceProject1
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MinimumSize = new System.Drawing.Size(1085, 755);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelMovement.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.panelMain.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.panelBook.ResumeLayout(false);
@@ -548,7 +563,6 @@ namespace AdvanceProject1
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox2;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
-        private Guna.UI2.WinForms.Guna2ShadowForm guna2ShadowForm1;
         private System.Windows.Forms.Panel panelLeft;
         private System.Windows.Forms.Panel panelSide2;
         private System.Windows.Forms.Panel panelInform;
@@ -568,6 +582,7 @@ namespace AdvanceProject1
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label labelUserName;
+        private System.Windows.Forms.Label labelBolumAdi;
     }
 }
 
