@@ -25,7 +25,6 @@ D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVe
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.Form1.resources
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.LogInForm.resources
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.Properties.Resources.resources
-D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.ShoppingChartForm.resources
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.UserControl1.resources
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.csproj.GenerateResource.cache
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.csproj.CoreCompileInputs.cache
@@ -33,3 +32,4 @@ D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVe
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.exe
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.pdb
 D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.ShoppingChart.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadNewVersion\AdvanceProject1\obj\Release\AdvanceProject1.ShoppingChartForm2.resources

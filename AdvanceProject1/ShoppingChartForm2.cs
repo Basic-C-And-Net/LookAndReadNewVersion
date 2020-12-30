@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AdvanceProject1
 {
-    public partial class ShoppingChartForm : Form
+    public partial class ShoppingChartForm2 : Form
     {
-        public ShoppingChartForm()
+        public ShoppingChartForm2()
         {
             InitializeComponent();
         }

@@ -50,7 +50,7 @@ namespace AdvanceProject1
             this.ıconButtonBookDelete.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
             this.ıconButtonBookDelete.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.ıconButtonBookDelete.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.ıconButtonBookDelete.Location = new System.Drawing.Point(621, 36);
+            this.ıconButtonBookDelete.Location = new System.Drawing.Point(678, 49);
             this.ıconButtonBookDelete.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ıconButtonBookDelete.Name = "ıconButtonBookDelete";
             this.ıconButtonBookDelete.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
@@ -65,7 +65,7 @@ namespace AdvanceProject1
             this.labelKitapAdi.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.labelKitapAdi.AutoSize = true;
             this.labelKitapAdi.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelKitapAdi.Location = new System.Drawing.Point(140, 40);
+            this.labelKitapAdi.Location = new System.Drawing.Point(168, 50);
             this.labelKitapAdi.Name = "labelKitapAdi";
             this.labelKitapAdi.Size = new System.Drawing.Size(132, 20);
             this.labelKitapAdi.TabIndex = 5;
@@ -77,7 +77,7 @@ namespace AdvanceProject1
             this.labelYazar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.labelYazar.AutoSize = true;
             this.labelYazar.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelYazar.Location = new System.Drawing.Point(140, 73);
+            this.labelYazar.Location = new System.Drawing.Point(168, 83);
             this.labelYazar.Name = "labelYazar";
             this.labelYazar.Size = new System.Drawing.Size(126, 20);
             this.labelYazar.TabIndex = 6;
@@ -91,7 +91,7 @@ namespace AdvanceProject1
             this.labelFiyat.AutoSize = true;
             this.labelFiyat.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelFiyat.ForeColor = System.Drawing.Color.DarkRed;
-            this.labelFiyat.Location = new System.Drawing.Point(432, 49);
+            this.labelFiyat.Location = new System.Drawing.Point(467, 61);
             this.labelFiyat.Margin = new System.Windows.Forms.Padding(1);
             this.labelFiyat.Name = "labelFiyat";
             this.labelFiyat.Size = new System.Drawing.Size(91, 28);
@@ -113,7 +113,7 @@ namespace AdvanceProject1
             this.guna2NumericUpDown1.FocusedState.Parent = this.guna2NumericUpDown1;
             this.guna2NumericUpDown1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2NumericUpDown1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            this.guna2NumericUpDown1.Location = new System.Drawing.Point(303, 43);
+            this.guna2NumericUpDown1.Location = new System.Drawing.Point(340, 53);
             this.guna2NumericUpDown1.Name = "guna2NumericUpDown1";
             this.guna2NumericUpDown1.ShadowDecoration.Parent = this.guna2NumericUpDown1;
             this.guna2NumericUpDown1.Size = new System.Drawing.Size(100, 36);
@@ -131,7 +131,7 @@ namespace AdvanceProject1
             this.iconButtonAdd.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(14)))), ((int)(((byte)(0)))));
             this.iconButtonAdd.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButtonAdd.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButtonAdd.Location = new System.Drawing.Point(552, 36);
+            this.iconButtonAdd.Location = new System.Drawing.Point(609, 51);
             this.iconButtonAdd.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.iconButtonAdd.Name = "iconButtonAdd";
             this.iconButtonAdd.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
@@ -144,9 +144,9 @@ namespace AdvanceProject1
             // pictureBox1
             // 
             this.pictureBox1.Image = global::AdvanceProject1.Properties.Resources.sofienin_dunyasi_3776459_15_O;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(15, 6);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(105, 119);
+            this.pictureBox1.Size = new System.Drawing.Size(131, 134);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
@@ -155,6 +155,7 @@ namespace AdvanceProject1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.iconButtonAdd);
             this.Controls.Add(this.guna2NumericUpDown1);
@@ -163,7 +164,7 @@ namespace AdvanceProject1
             this.Controls.Add(this.labelKitapAdi);
             this.Controls.Add(this.ıconButtonBookDelete);
             this.Name = "ShoppingChart";
-            this.Size = new System.Drawing.Size(814, 129);
+            this.Size = new System.Drawing.Size(802, 145);
             this.Load += new System.EventHandler(this.ShoppingChart_Load);
             ((System.ComponentModel.ISupportInitialize)(this.guna2NumericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

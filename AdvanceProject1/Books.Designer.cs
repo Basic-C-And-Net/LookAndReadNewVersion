@@ -32,7 +32,6 @@ namespace AdvanceProject1
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Books));
             this.panelMain = new System.Windows.Forms.Panel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.userControl14 = new AdvanceProject1.UserControl1();
             this.userControl11 = new AdvanceProject1.UserControl1();
             this.userControl12 = new AdvanceProject1.UserControl1();
@@ -40,6 +39,7 @@ namespace AdvanceProject1
             this.userControl15 = new AdvanceProject1.UserControl1();
             this.userControl16 = new AdvanceProject1.UserControl1();
             this.userControl17 = new AdvanceProject1.UserControl1();
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.panelMain.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
@@ -73,17 +73,6 @@ namespace AdvanceProject1
             this.flowLayoutPanel1.Size = new System.Drawing.Size(801, 456);
             this.flowLayoutPanel1.TabIndex = 1;
             // 
-            // guna2PictureBox1
-            // 
-            this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
-            this.guna2PictureBox1.Location = new System.Drawing.Point(6, 347);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.ShadowDecoration.Parent = this.guna2PictureBox1;
-            this.guna2PictureBox1.Size = new System.Drawing.Size(1018, 250);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox1.TabIndex = 0;
-            this.guna2PictureBox1.TabStop = false;
-            // 
             // userControl14
             // 
             this.userControl14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(254)))), ((int)(((byte)(242)))));
@@ -95,6 +84,7 @@ namespace AdvanceProject1
             // 
             // userControl11
             // 
+            this.userControl11.BackColor = System.Drawing.Color.MintCream;
             this.userControl11.Location = new System.Drawing.Point(419, 40);
             this.userControl11.Margin = new System.Windows.Forms.Padding(40);
             this.userControl11.Name = "userControl11";
@@ -146,10 +136,20 @@ namespace AdvanceProject1
             this.userControl17.Size = new System.Drawing.Size(299, 469);
             this.userControl17.TabIndex = 10;
             // 
+            // guna2PictureBox1
+            // 
+            this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
+            this.guna2PictureBox1.Location = new System.Drawing.Point(6, 347);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.ShadowDecoration.Parent = this.guna2PictureBox1;
+            this.guna2PictureBox1.Size = new System.Drawing.Size(1018, 250);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox1.TabIndex = 0;
+            this.guna2PictureBox1.TabStop = false;
+            // 
             // Books
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(848, 597);
             this.Controls.Add(this.panelMain);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

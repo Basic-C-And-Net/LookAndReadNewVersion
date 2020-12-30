@@ -83,7 +83,7 @@ namespace AdvanceProject1
             panelSide.Visible = true;
             panelSide.Top = ıconButtonShopping.Top;
             panelSide2.Visible = false;
-            openChildForm(new ShoppingChartForm());
+            openChildForm(new ShoppingChartForm2());
             
             labelBolumAdi.Text = "SHOPPING CHART";
         }
@@ -220,9 +220,6 @@ namespace AdvanceProject1
 
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }

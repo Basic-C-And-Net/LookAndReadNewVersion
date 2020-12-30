@@ -78,11 +78,11 @@
     <Compile Include="ShoppingChart.Designer.cs">
       <DependentUpon>ShoppingChart.cs</DependentUpon>
     </Compile>
-    <Compile Include="ShoppingChartForm.cs">
+    <Compile Include="ShoppingChartForm2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ShoppingChartForm.Designer.cs">
-      <DependentUpon>ShoppingChartForm.cs</DependentUpon>
+    <Compile Include="ShoppingChartForm2.Designer.cs">
+      <DependentUpon>ShoppingChartForm2.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControl1.cs">
       <SubType>UserControl</SubType>
@@ -112,8 +112,8 @@
     <EmbeddedResource Include="ShoppingChart.resx">
       <DependentUpon>ShoppingChart.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ShoppingChartForm.resx">
-      <DependentUpon>ShoppingChartForm.cs</DependentUpon>
+    <EmbeddedResource Include="ShoppingChartForm2.resx">
+      <DependentUpon>ShoppingChartForm2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.cs</DependentUpon>
