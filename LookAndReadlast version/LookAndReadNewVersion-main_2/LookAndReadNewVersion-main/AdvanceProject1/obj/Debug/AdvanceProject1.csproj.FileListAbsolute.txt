@@ -1,0 +1,193 @@
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingChartForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\bin\Debug\Guna.UI2.dll
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.UserControl1.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\AdvanceProject1\AdvanceProject1\obj\Debug\AdvanceProject1.Books.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Books.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookControl.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Books.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookControl.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.DeleteBookControl.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UpdateBookControl.resources
+C:\Users\Caglar\Downloads\Compressed\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.DeleteBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UpdateBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Desktop\LookAndReadNewVersion-main_ahmet2\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.DeleteBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UpdateBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Desktop\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.DeleteBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UpdateBookControl.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+C:\Users\Caglar\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.DeleteBookControl.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UpdateBookControl.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+D:\COMPUTER ENGİNEERİNG\Advanced Programming Techniques\proje\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe.config
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.exe
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\AdvanceProject1.pdb
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\bin\Debug\Guna.UI2.dll
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AddBookControl.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminLoginForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.AdminPanelForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.BookForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.DeleteBookControl.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Form1.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.HomeForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.LogInForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.RegisterForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.ShoppingCartForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UpdateBookControl.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserInfoUpdateForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.UserProfileForm.resources
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.exe
+C:\Users\Ahmet\Desktop\LookAndReadlast_version_2\LookAndReadlast version\LookAndReadNewVersion-main_2\LookAndReadNewVersion-main\AdvanceProject1\obj\Debug\AdvanceProject1.pdb
